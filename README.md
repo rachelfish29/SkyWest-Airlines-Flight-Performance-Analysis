@@ -1,6 +1,6 @@
-# SkyWest Airlines | Flight Operations & On-Time Performance Analysis (2025)
+# ✈️SkyWest Airlines | Flight Operations & On-Time Performance Analysis (2025)
 
-## Project Overview
+## 📌Project Overview
 
 This project analyzes SkyWest Airlines' flight operations and on-time performance in 2025 using data from the U.S. Bureau of Transportation Statistics (BTS).
 
@@ -13,7 +13,7 @@ The main goal is to understand SkyWest's flight volume, delay patterns, airport 
 
 ---
 
-## Project Objectives
+## 🎯Project Objectives
 
 The analysis focuses on the following questions:
 
@@ -25,7 +25,7 @@ The analysis focuses on the following questions:
 
 ---
 
-## Data Collection & Preparation
+## 🗂️Data Collection & Preparation
 
 The dataset comes from the BTS Airline On-Time Performance Data, covering January through December 2025.
 
@@ -39,7 +39,7 @@ R was used to prepare the data for analysis:
 
 ---
 
-## Key Performance Indicators
+## 📊Key Performance Indicators
 
 The 2025 SkyWest dataset provides the following overview:
 
@@ -57,7 +57,7 @@ Major operating airports included Denver (DEN), Chicago O'Hare (ORD), and Seattl
 
 ---
 
-## Key Findings
+## 🔍Key Findings
 
 ### 1. Monthly Delay Trends
 
@@ -122,7 +122,7 @@ Although SkyWest had fewer cancellations, its average departure delay duration w
 
 ---
 
-## Dashboard Preview
+## 📈Dashboard Preview
 
 ### Monthly Delay Trends
 
@@ -150,7 +150,7 @@ Although SkyWest had fewer cancellations, its average departure delay duration w
 
 ---
 
-## My Focus
+## 👤My Focus
 
 This was a team project. My main focus was analyzing flight delay patterns and operational performance using Tableau.
 
@@ -162,7 +162,7 @@ Other parts of the project, including data preparation, the KPI overview, and co
 
 ---
 
-## Data Source
+## 📚Data Source
 
 U.S. Department of Transportation - Bureau of Transportation Statistics (BTS)
 
