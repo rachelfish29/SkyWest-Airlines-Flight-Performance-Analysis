@@ -144,7 +144,7 @@ see the [Full Project Presentation](presentation/SkyWest_Analysis_2025.pdf).
 | File | Description |
 |---|---|
 | [Full Project Presentation](presentation/SkyWest_Analysis_2025.pdf) | Complete analysis report covering flight operations, delay patterns, and competitor comparison |
-| [SkyWest Cleaned Dataset](data/skywest_cleaned.csv) | Cleaned 2025 SkyWest flight records used for analysis |
+| [SkyWest Cleaned Dataset](data/skywest_sample.csv) | Cleaned 2025 SkyWest flight records used for analysis |
 | [All Airlines Cleaned Dataset](data/all_airlines_cleaned.csv) | Cleaned airline dataset used for comparison across carriers |
 | [Dashboard Screenshots](images/) | Tableau visualizations used in the project |
 
