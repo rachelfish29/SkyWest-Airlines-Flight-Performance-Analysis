@@ -1,5 +1,4 @@
 # ✈️SkyWest Airlines | Flight Operations & On-Time Performance Analysis (2025)
-![SkyWest Airlines Project Cover](images/Cover%20%26%20Title%20Slide.png)
 
 ## 📌Project Overview
 
@@ -125,20 +124,31 @@ Although SkyWest had fewer cancellations, its average departure delay duration w
 
 ## 📈 Dashboard Preview
 
-### Flight Operations & KPI Overview
-![KPI Overview](images/KPI%20Overview.png)
-
 ### Monthly Delay Trends
 ![Monthly Delay Trends](images/Monthly%20Delay%20Trends.png)
 
 ### Delay Heatmap
 ![Delay Heatmap](images/Delay%20Heatmap.png)
 
-### Airport Performance
-![Airport Performance](images/Airport%20Performance.png)
-
 ### Delay Causes Analysis
 ![Delay Causes Analysis](images/Delay%20Causes%20Analysis.png)
+
+For the complete analysis, including airport performance,
+route comparisons, and competitor benchmarking,
+see the [Full Project Presentation](presentation/SkyWest_Analysis_2025.pdf).
+
+---
+
+## 📁 Project Files
+
+| File | Description |
+|---|---|
+| [Full Project Presentation](presentation/SkyWest_Analysis_2025.pdf) | Complete analysis report covering flight operations, delay patterns, and competitor comparison |
+| [SkyWest Cleaned Dataset](data/skywest_cleaned.csv) | Cleaned 2025 SkyWest flight records used for analysis |
+| [All Airlines Cleaned Dataset](data/all_airlines_cleaned.csv) | Cleaned airline dataset used for comparison across carriers |
+| [Dashboard Screenshots](images/) | Tableau visualizations used in the project |
+
+**Note:** Sample datasets are provided due to file size limits. The analysis was conducted using the complete 2025 datasets from BTS.
 
 ---
 
