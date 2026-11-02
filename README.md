@@ -1,6 +1,6 @@
-# ✈️SkyWest Airlines | Flight Operations & On-Time Performance Analysis (2025)
+# ✈️ SkyWest Airlines | Flight Operations & On-Time Performance Analysis (2025)
 
-## 📌Project Overview
+## 📌 Project Overview
 
 This project analyzes SkyWest Airlines' flight operations and on-time performance in 2025 using data from the U.S. Bureau of Transportation Statistics (BTS).
 
@@ -13,7 +13,7 @@ The main goal is to understand SkyWest's flight volume, delay patterns, airport 
 
 ---
 
-## 🎯Project Objectives
+## 🎯 Project Objectives
 
 The analysis focuses on the following questions:
 
@@ -25,7 +25,7 @@ The analysis focuses on the following questions:
 
 ---
 
-## 🗂️Data Collection & Preparation
+## 🗂️ Data Collection & Preparation
 
 The dataset comes from the BTS Airline On-Time Performance Data, covering January through December 2025.
 
@@ -39,7 +39,7 @@ R was used to prepare the data for analysis:
 
 ---
 
-## 📊Key Performance Indicators
+## 📊 Key Performance Indicators
 
 The 2025 SkyWest dataset provides the following overview:
 
@@ -57,7 +57,7 @@ Major operating airports included Denver (DEN), Chicago O'Hare (ORD), and Seattl
 
 ---
 
-## 🔍Key Findings
+## 🔍 Key Findings
 
 ### 1. Monthly Delay Trends
 
@@ -144,15 +144,15 @@ see the [Full Project Presentation](presentation/SkyWest_Analysis_2025.pdf).
 | File | Description |
 |---|---|
 | [Full Project Presentation](presentation/SkyWest_Analysis_2025.pdf) | Complete analysis report covering flight operations, delay patterns, and competitor comparison |
-| [SkyWest Cleaned Dataset](data/skywest_sample.csv) | Cleaned 2025 SkyWest flight records used for analysis |
-| [All Airlines Cleaned Dataset](data/all_airlines_cleaned.csv) | Cleaned airline dataset used for comparison across carriers |
-| [Dashboard Screenshots](images/) | Tableau visualizations used in the project |
+| [SkyWest Cleaned Dataset](data/skywest_sample.csv) | 1,000 randomly sampled records from the cleaned SkyWest 2025 dataset |
+| [All Airlines Cleaned Dataset](data/all_airlines_sample.csv) | 5,000 randomly sampled flight records from the cleaned 2025 airline dataset |
+| [Dashboard Screenshots](images/) | Tableau visualizations of flight delays, airport performance, and competitor comparisons |
 
 **Note:** Sample datasets are provided due to file size limits. The analysis was conducted using the complete 2025 datasets from BTS.
 
 ---
 
-## 👤My Focus
+## 👤 My Focus
 
 This was a team project. My main focus was analyzing flight delay patterns and operational performance using Tableau.
 
@@ -164,7 +164,15 @@ Other parts of the project, including data preparation, the KPI overview, and co
 
 ---
 
-## 📚Data Source
+## 🛠️ Tools & Technologies
+
+- R
+- Tableau
+- Microsoft Excel
+
+---
+
+## 📚 Data Source
 
 U.S. Department of Transportation - Bureau of Transportation Statistics (BTS)
 
