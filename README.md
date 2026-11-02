@@ -9,8 +9,11 @@ The analysis focuses on flight volume, delay patterns, airport and route perform
 R was used for data cleaning and preparation, while Tableau was used to create visualizations and explore flight performance across different months, departure times, airports, and routes.
 
 Tools: R, Tableau, Excel
+
 Data Source: Bureau of Transportation Statistics (BTS)
+
 Period: January – December 2025
+
 Dataset: 839,821 SkyWest flight records
 
 ---
