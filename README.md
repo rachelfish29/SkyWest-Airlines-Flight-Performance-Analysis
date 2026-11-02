@@ -4,12 +4,14 @@
 
 This project analyzes SkyWest Airlines' flight operations and on-time performance in 2025 using data from the U.S. Bureau of Transportation Statistics (BTS).
 
-The main goal is to understand SkyWest's flight volume, delay patterns, airport and route performance, and the major causes of flight delays. The project also compares SkyWest with two regional airlines, Envoy Air and Republic Airways.
+The analysis focuses on flight volume, delay patterns, airport and route performance, and the main causes of flight delays. It also compares SkyWest with two regional airlines, Envoy Air and Republic Airways, to better understand differences in their operational performance.
 
-**Tools:** R, Tableau, Excel
-**Data Source:** Bureau of Transportation Statistics (BTS)  
-**Period:** January - December 2025  
-**Dataset:** 839,821 SkyWest flight records
+R was used for data cleaning and preparation, while Tableau was used to create visualizations and explore flight performance across different months, departure times, airports, and routes.
+
+Tools: R, Tableau, Excel
+Data Source: Bureau of Transportation Statistics (BTS)
+Period: January – December 2025
+Dataset: 839,821 SkyWest flight records
 
 ---
 
